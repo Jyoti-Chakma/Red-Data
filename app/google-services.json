@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "126038656658",
-    "project_id": "realtimedatabasetutorial-57f4f",
-    "storage_bucket": "realtimedatabasetutorial-57f4f.appspot.com"
+    "project_number": "674303736492",
+    "project_id": "bloodctg-25b5a",
+    "storage_bucket": "bloodctg-25b5a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:126038656658:android:5a68971c5665be5d5b084b",
+        "mobilesdk_app_id": "1:674303736492:android:a9ad25d1e6dd32301c7d09",
         "android_client_info": {
-          "package_name": "com.example.realtimedatabasetutorial"
+          "package_name": "com.piedroid.bloodctg"
         }
       },
       "oauth_client": [
         {
-          "client_id": "126038656658-u4o12jkrvcvbn908p1bthc7ug3p45jbt.apps.googleusercontent.com",
+          "client_id": "674303736492-171qqvt6s5t5b1peb630borqj5onad7a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDRGIINoXslZELvrmhpMGhAMYS0UGsvvvs"
+          "current_key": "AIzaSyAQKNWvWHRMllwyecDnBM_IgrFiSDqoGDI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "126038656658-u4o12jkrvcvbn908p1bthc7ug3p45jbt.apps.googleusercontent.com",
+              "client_id": "674303736492-171qqvt6s5t5b1peb630borqj5onad7a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
